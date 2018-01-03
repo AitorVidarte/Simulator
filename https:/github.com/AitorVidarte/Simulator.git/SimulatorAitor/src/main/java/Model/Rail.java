@@ -13,10 +13,6 @@ public class Rail implements Serializable {
 	private boolean occupied;
 	private Station previousStation;
 	private Station nextStation;
-	int a;
-	int b;
-	int c;
-
 	
 	public Rail() {
 	}
