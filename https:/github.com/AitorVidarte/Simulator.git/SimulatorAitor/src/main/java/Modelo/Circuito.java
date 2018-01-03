@@ -53,4 +53,6 @@ public class Circuito {
 	this.estaciones = estaciones;
     }
 
+public void prueba(){}
+
 }
