@@ -14,6 +14,7 @@ public class Rail implements Serializable {
 	private Station previousStation;
 	private Station nextStation;
 
+	
 	public Rail() {
 	}
 
