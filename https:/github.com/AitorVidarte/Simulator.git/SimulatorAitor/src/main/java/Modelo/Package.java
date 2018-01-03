@@ -28,6 +28,7 @@ public class Package implements Serializable {
 	@ManyToOne
 	private Station destination;
 	private String description;
+	String aa;
 	private int packageState;
 	private Date sendDate;
 	private boolean asignadoTren;
